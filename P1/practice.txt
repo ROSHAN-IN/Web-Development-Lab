@@ -1,0 +1,8 @@
+My First Web Development Lab
+
+Name: Roshan Kumar Pradhan
+Practical: P1
+Topic: Project Folder and Terminal Navigation
+
+I learned how to create folders and files
+using terminal commands in VS Code.
